@@ -1,17 +1,15 @@
-# boost_plus
+![Android](https://img.shields.io/badge/Android-34A853?style=flat&logo=android&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
-A new Flutter project.
+# boostplus
 
-## Getting Started
+A new companion for your car
 
-This project is a starting point for a Flutter application.
+`work in progress - 404`
+![landing page](/assets/img/showcase/001.png)
+![home page](/assets/img/showcase/002.png)
 
-A few resources to get you started if this is your first Flutter project:
+# Docs
+https://trello.com/b/cTSnSZeW/kanban-boostplus
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![board](/assets/img/showcase/003.png)
