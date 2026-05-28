@@ -6,8 +6,7 @@
 A new companion for your car
 
 `work in progress - 404`
-![landing page](/assets/img/showcase/001.png)
-![home page](/assets/img/showcase/002.png)
+![landing page](/assets/img/showcase/001.png) | ![home page](/assets/img/showcase/002.png)
 
 # Docs
 https://trello.com/b/cTSnSZeW/kanban-boostplus
